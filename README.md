@@ -11,7 +11,7 @@ CamVid dataset is used for training. Download CamVid dataset from provided drive
 <br/>
 Trained Model weights can be downloaded from provided drive link into Model folder:
 <a href="https://drive.google.com/drive/folders/1_CjpC_oRFYLw-KfV-p5xjKQarDiAeTk1?usp=sharing">Download Model</a>
-<br/>
+<br/><br/>
 <img src="https://github.com/chandnii7/SegNet/blob/main/Data/img1.jpg" height="300" width="800"/>
 <br/><br/>
 
@@ -25,7 +25,7 @@ Overview:
 * Upsampling maps are convolved with trainable filters to produce dense feature maps in decoder because upsampling maps are spared
 <br/>
 <img src="https://github.com/chandnii7/SegNet/blob/main/Data/img2.jpg" height="300" width="450"/>
-<br/><br/>
+<br/>
 
 ### Results:
 1. Comparing Ground Truth and Predictions of Trained Model:
