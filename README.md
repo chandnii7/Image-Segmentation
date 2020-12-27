@@ -20,9 +20,10 @@ Overview:
 * Contains encoder network and corresponding decoder network which will consist of a hierarchy of decoders one corresponding to each encoder
 * Encoder network has 13 convolutional layers
 * Decoder network has 13 layers corresponding to each encoder
-* Followed by pixel-wise classification layer using Softmax
 * Non-linear upsampling in decoder using pooling indices from max-pooling step of the corresponding encoder for accurate boundary localization
 * Upsampling maps are convolved with trainable filters to produce dense feature maps in decoder because upsampling maps are spared
+* Followed by final pixel-wise classification layer using Softmax
+* Dataset augmentation with albumentations
 <br/>
 <img src="https://github.com/chandnii7/SegNet/blob/main/Data/img2.jpg" height="300" width="450"/>
 <br/>
