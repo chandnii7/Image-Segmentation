@@ -11,11 +11,11 @@ CamVid dataset is used for training. Download CamVid dataset from provided drive
 <br/>
 Trained Model weights can be downloaded from provided drive link into Model folder:
 <a href="https://drive.google.com/drive/folders/1_CjpC_oRFYLw-KfV-p5xjKQarDiAeTk1?usp=sharing">Download Model</a>
+<br/>
+<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img1.jpg" height="300" width="800"/>
 <br/><br/>
 
 ### Network Architecture<br/>
-<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img1.jpg" height="300" width="800"/>
-<br/>
 Overview:
 * Contains encoder network and corresponding decoder network which will consist of a hierarchy of decoders one corresponding to each encoder
 * Encoder network has 13 convolutional layers
