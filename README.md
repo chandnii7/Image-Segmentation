@@ -4,7 +4,7 @@ This Project is implemented based on the following research paper:
 <a href="https://github.com/chandnii7/SegNet/blob/main/Doc/Project_Research_Paper.pdf">View Research Paper</a>
 <br />
 
-Network Architecture:
+Network Architecture: <br/>
 <img src="https://github.com/chandnii7/SegNet/blob/main/Data/img1.jpg" height="300" width="800"/>
 
 Overview of Network Architecture:
@@ -22,17 +22,20 @@ Program was implemented using Python, TenserFlow, Keras and OpenCV. Refer the re
 <br/>
 CamVid dataset is used for training. Download CamVid dataset from provided drive link into CamVid folder:
 <a href="https://drive.google.com/drive/folders/1rE23coR6ddOWOPtg4oB6qeIVzmYzvGt4?usp=sharing">Download CamVid</a>
+<br/>
+Trained Model weights can be downloaded from provided drive link into Model folder:
+<a href="https://drive.google.com/drive/folders/1_CjpC_oRFYLw-KfV-p5xjKQarDiAeTk1?usp=sharing">Download Model</a>
 <br/><br/>
 
 ### Results:
 1. Comparing Ground Truth and Predictions of Trained Model:
-<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img3.jpg" height="300" width="800"/>
+<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img3.jpg" height="300" width="700"/>
 <br />
 
 2. Evaluation of SegNet on Train, Validation, and Test Data:
-<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img4.jpg" height="300" width="400"/>
+<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img4.jpg" height="300" width="450"/>
 <br />
 
 3. Precision, Recall, F1-score and Support:
-<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img5.jpg" height="700" width="400"/>
+<img src="https://github.com/chandnii7/SegNet/blob/main/Data/img5.jpg" height="700" width="450"/>
 <br />
