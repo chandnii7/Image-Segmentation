@@ -1,4 +1,4 @@
-# SegNet: Deep Convolutional Encoder-Decoder Architecture for Pixel-wise Image Segmentation
+# SegNet : Deep Convolutional Encoder-Decoder Architecture for Pixel-wise Image Segmentation
 
 This Project is implemented based on the following research paper:
 <a href="https://github.com/chandnii7/SegNet/blob/main/Doc/Project_Research_Paper.pdf">View Research Paper</a>
